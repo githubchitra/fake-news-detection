@@ -11,23 +11,14 @@ The Fake News Detection Model uses Natural Language Processing (NLP) and machine
 
 The model is optimized for news articles but can be adapted for other types of textual data to identify misleading or biased information.
 
-Getting Started
+# Getting Started
 To get started with the Fake News Detection Model, follow these steps:
 
 Clone the Repository
 First, clone the repository to your local machine:
 
-bash
-Copy
-git clone https://github.com/githubchitra/fake-news-detection.git
-cd fake-news-detection
 Install Dependencies
 Install the required Python packages:
-
-bash
-Copy
-pip install -r requirements.txt
-Download the Dataset
 Unfortunately, the dataset is too large to be included in this repository. However, you can download it from Kaggle. Follow these steps:
 
 Go to the Kaggle Fake News Dataset page.
