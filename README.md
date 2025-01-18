@@ -10,7 +10,7 @@ Model Details
 Training
 Evaluation
 License
-Contact
+Contact 
 Overview
 The Fake News Detection Model classifies news articles as "real" or "fake" based on a variety of linguistic features. It analyzes the content of news articles using advanced machine learning techniques, including text vectorization and supervised learning algorithms, to detect patterns commonly associated with fake news.
 
