@@ -30,7 +30,8 @@ Download the dataset from the Kaggle competition page or here.
 
 Once downloaded, extract the dataset and place it in the data/ directory of this repository
 
-Contact
+
+# Contact
 For any issues or further inquiries, feel free to reach out:
 
 Email: pathakchitra90@gmail.com
