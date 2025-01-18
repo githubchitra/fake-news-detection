@@ -6,9 +6,11 @@ The Fake News Detection Model classifies news articles as "real" or "fake" based
 
 This model has been trained on a variety of datasets that include both fake and real news sources. The model’s goal is to help identify and prevent the spread of misinformation online.
 
+
 Contact
 For any issues or further inquiries, feel free to reach out:
-
 Email: pathakchitra90@gmail.com
+
 GitHub: https://github.com/githubchitra
+
 Thank you for checking out this Fake News Detection Model!
