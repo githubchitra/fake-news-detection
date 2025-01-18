@@ -9,6 +9,7 @@ This model has been trained on a variety of datasets that include both fake and 
 
 Contact
 For any issues or further inquiries, feel free to reach out:
+
 Email: pathakchitra90@gmail.com
 
 GitHub: https://github.com/githubchitra
