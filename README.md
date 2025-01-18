@@ -14,16 +14,20 @@ The model is optimized for news articles but can be adapted for other types of t
 # Getting Started
 To get started with the Fake News Detection Model, follow these steps:
 
-Clone the Repository
+1.Clone the Repository
 First, clone the repository to your local machine:
 
-Install Dependencies
+2.Install Dependencies
 Install the required Python packages:
-Unfortunately, the dataset is too large to be included in this repository. However, you can download it from Kaggle. Follow these steps:
+
+3.Unfortunately, the dataset is too large to be included in this repository. However, you can download it from Kaggle. Follow these steps:
 
 Go to the Kaggle Fake News Dataset page.
+
 Create a Kaggle account if you don't have one.
+
 Download the dataset from the Kaggle competition page or here.
+
 Once downloaded, extract the dataset and place it in the data/ directory of this repository
 
 Contact
